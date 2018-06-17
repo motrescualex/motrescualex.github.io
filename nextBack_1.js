@@ -3544,7 +3544,7 @@ var allQuestions = [
             'a. infectioasa, virala, ce evolueaza favorabil , cu adenopatii, eruptie micropapuloasa fugace si febra inconstanta ;',
             'b. cu izolare la domiciliu ;',
             'c. cu contagiozitate majora ce impune internarea obligatorie in spital.'],
-        correctAnswer:[0,9]},
+        correctAnswer:[0,1]},
     {question: '592.In rubeola, modul de transmitere este :',
         choices: [
             'a. aerogen;',
@@ -4012,7 +4012,7 @@ var allQuestions = [
             'a. fracturi, traumatisme',
             'b. infarct miocardic',
             'c. insuficienta cardiaca'],
-        correctAnswer:[0,9]},
+        correctAnswer:[0,1]},
     {question: '670. Din complicatiile enumerate mai jos trebuie prevenite la bolnavii imobilizati la pat:',
         choices: [
             'a. formarea trombozelor, pneumoniilor hipostatice',
@@ -4036,7 +4036,7 @@ var allQuestions = [
             'a. prin schimbari pasive de pozitie',
             'b. schimbarea pozitiei se va face cu ajutorul unor utilaje auxiliare',
             'c. schimbarea pozitii este contraindicata la bolnavii imobilizati'],
-        correctAnswer:[1,9]},
+        correctAnswer:[0,1]},
     {question: '674.Rolul asistentei medicale in asigurarea confortului bolnavilor imobilizati consta in:',
         choices: [
             'a. asistenta trebuie sa aranjeze totul la indemina bolnavului',
@@ -4684,7 +4684,7 @@ var allQuestions = [
             'a. se aspira secretiile si se curata orofaringele;',
             'b. se aplica garouri la radacina a trei membre;',
             'c. oxigenoterapie intermitenta pe sonda endotraheala.'],
-        correctAnswer:[0,9]},
+        correctAnswer:[0,1]},
     {question: '782 . Tratamentul in edemul pulmonar acut cu TA crescuta este:',
         choices: [
             'a. digitalice;',
@@ -4858,37 +4858,37 @@ var allQuestions = [
             'a. cefalee precoce, contractii musculare, stari confuzionale ;',
             'b. stare generala profund alterata, miros amoniacal al aerului expirat, intoleranta digestiva ;',
             'c. stare generala alterata, toleranta digestiva, dispnee, somnolenta.'],
-        correctAnswer:[0,9]},
+        correctAnswer:[0,1]},
     {question: '811.Interventiile asistentei medicale in insuficienta renala cronica este un element important al activitatii medicale. Educarea pacientilor se refera la :',
         choices: [
             'a. exercitii fizice intense, sustinute ;',
             'b. necesitatea restrictiilor alimentare ;',
             'c. igiena riguroasa a tegumentelor .'],
-        correctAnswer:[1,9]},
+        correctAnswer:[1,2]},
     {question: '812.Problemele pacientului cu insuficienta renala cronica pot fi :',
         choices: [
             'a. alterarea echilibrului acido-bazic prin degradarea functiei tubulare ;',
             'b. alterarea integritatii pielii ;',
             'c. insomnia .'],
-        correctAnswer:[0,9]},
+        correctAnswer:[0,1]},
     {question: '813.Corectarea dezechilibrelor hidro-electrolitice si acido-bazice in I.R.A. se face cu :',
         choices: [
             'a. bicarbonat de sodiu in acidoza metabolica ;',
             'b. clorura de sodiu in deshidratarea extracelulara ;',
             'c. diuretice in deshidratarea extracelulara .'],
-        correctAnswer:[0,9]},
+        correctAnswer:[0,1]},
     {question: '814.Etiopatogenia litiazei renale este reprezentata de :',
         choices: [
             'a. prezenta in urina a unor coloizi protectori care sa impiedice cristalizarea;',
             'b. conditii fizico-chimice care favorizeaza cristalizarea (oligurie, staza urinara);',
             'c. prezenta in urina, in exces, a unor substante care pot cristaliza (acid uric, acid oxalic, fosfati, calciu).'],
-        correctAnswer:[1,9]},
+        correctAnswer:[1,2]},
     {question: '815.Evolutia in litiaza renala depinde de urmatorii factori:',
         choices: [
             'a. compozitia calculului, regimul alimentar;',
             'b. numarul si marimea calculilor, obstructia cailor urinare;',
             'c. aparitia infectiei.'],
-        correctAnswer:[1,9]},
+        correctAnswer:[1,2]},
     {question: '816.Cele mai frecvente complicatii ale litiazei renale sunt:',
         choices: [
             'a. anuria, infectia urinara;',
@@ -4996,7 +4996,7 @@ var allQuestions = [
             'a. Dextran 70 cu timp de injumatatire 8-12 ore;',
             'b. Dextran 40 cu timp de injumatatire 6-8 ore ;',
             'c. preparate de gelatina.'],
-        correctAnswer:[0,9]},
+        correctAnswer:[0,2]},
     {question: '834 .Punctionarea unei vene cu ac de mare calibru este un gest de mare urgenta deoarece :',
         choices: [
             'a. scade tensiunea venoasa prin hemoragie masiva ;',
@@ -5230,7 +5230,7 @@ var allQuestions = [
             'a. aplicarea sondei vezicale la toti bolnavii indiferent de tipul operatiei;',
             'b. aplicarea sondei vezicale in conditii de asepsie perfecta;',
             'c. in perspectiva sondajelor repetate se va prefera sonda a demeure.'],
-        correctAnswer:[1,9]},
+        correctAnswer:[1,2]},
     {question: '873.Tratamentul chirurgical in stadiul de colectie al abcesului fesier consta in :',
         choices: [
             'a. incizie larga in partea cea mai decliva a colectiei;',
@@ -5272,7 +5272,7 @@ var allQuestions = [
             'a. stimularea expectoratiei;',
             'b. aplicarea de pipa orofaringiana;',
             'c. monitorizare E.C.G.'],
-        correctAnswer:[0,9]},
+        correctAnswer:[0,1]},
     {question: '880 .Postoperator, starea confuzionala are ca manifestari:',
         choices: [
             'a. hipertermie;',
