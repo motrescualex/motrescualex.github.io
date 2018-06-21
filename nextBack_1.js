@@ -1382,7 +1382,7 @@ var allQuestions = [
     {question: '231. In profilaxia escarelor postoperatorii, suprimarea presiunii de pe ariile cutanate amenintate se poate realiza prin:',
         choices: [
             'a. mobilizarea precoce, schimbarea pozitiei in pat, asigurarea unei lenjerii corespunzatoare',
-            'b. schimimobbailirzeaarepaanbsoalnmaevnut luui lulai pat fara a-i schimba pozitia decat odata cu',
+            'b. imobilizarea bolnavului la pat fara a-i schimba pozitia decat o data cu schimbarea pansamentului',
             'c. asigurarea unei alimentatii deshidratante si schimbarea pozitiei in pat'],
         correctAnswer:[0,9]},
     {question: '232.In hemoragiile postoperatorii care se manifesta ca hemoragii intraperitoneale se impune:',
