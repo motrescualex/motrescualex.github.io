@@ -1,0 +1,60 @@
+
+html, body {
+  width: 100%;
+  height: 100%;
+}
+
+#wrapper {
+  width: 80%;
+  margin-top: 50px;
+  margin-left: auto;
+  margin-right: auto;
+/*  border: 1px solid black; */
+}
+.answer-container {
+	margin-top: 20px;
+}
+
+#buttons {
+  margin-top: 50px;
+  margin-left: 0px;
+}
+
+#sterge {
+  margin-top: 100px;
+}
+
+#showBtn,
+#nextBtn,
+#backBtn {
+	width: 25%;
+	height: 35px;
+	margin-right: 5%;
+}
+
+#consecutiveRadioContainerId {
+	margin-top: 20px;
+	margin-bottom: 20px;
+}
+
+#startBtn {
+	display: block;
+	width: 50%;
+	height: 35px;
+	margin: 0 auto;
+	margin-bottom: 20px;
+	margin-top: 20px;
+}
+
+#score {
+	display: block;
+	width: 50%;
+	height: 45px;
+	margin: 0 auto;
+	margin-bottom: 20px;
+	margin-top: 20px;
+}
+
+
+
+/*  */
